@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "Cable Detector Module ")
+    (date "12.10.2022")
+    (rev "1.0")
+    (company "by Muxtar_Safarov")
+  )
+
   (lib_symbols
     (symbol "Amplifier_Operational:CA3130" (pin_names (offset 0.127)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (at 6.35 5.08 0)
